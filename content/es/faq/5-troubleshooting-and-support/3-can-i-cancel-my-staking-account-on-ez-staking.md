@@ -2,6 +2,7 @@
 title: Can I cancel my staking account on EZ Staking?
 published: false
 ---
+
 Yes, you can cancel your staking account on EZ Staking. As a non-custodial staking provider, EZ Staking does not hold your private keys or have control over your funds. You are free to cancel your staking account at any time, and we encourage you to do so if you no longer want to participate in staking or if you experience any issues with your staking account.
 
 To cancel your staking account on EZ Staking, you can follow these steps:

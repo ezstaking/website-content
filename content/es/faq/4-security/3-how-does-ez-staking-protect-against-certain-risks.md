@@ -3,7 +3,7 @@ title: ¿Cómo protege  EZ Staking contra ciertos riesgos?
 published: true
 ---
 
- EZ Staking toma varias medidas para protegerse contra ciertos riesgos:
+EZ Staking toma varias medidas para protegerse contra ciertos riesgos:
 
 * Conectividad ininterrumpida: Utilizamos múltiples nodos de alta disponibilidad para garantizar una conectividad continua a la cadena de bloques, minimizando el riesgo de fallas en los nodos o tiempo de inactividad por mantenimiento.
 * Actualizaciones periódicas de software: nuestra infraestructura siempre se actualiza con los últimos parches de seguridad y correcciones de errores, lo que garantiza que la plataforma siga siendo segura y confiable.

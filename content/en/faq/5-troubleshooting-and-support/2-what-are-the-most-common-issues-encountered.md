@@ -3,8 +3,6 @@ title: What are the most common issues encountered on EZ Staking and how are the
 published: false
 ---
 
-**What are the most common issues encountered on EZ Staking and how are they resolved?**
-
 At EZ Staking, we strive to provide a seamless staking experience for our users. However, occasionally, some issues may arise. Our most common issues include:
 
 * Connection errors: Issues with connecting to our platform, node, or wallet can cause staking to malfunction. We resolve this by troubleshooting network configurations, ensuring that our platform and node are up-to-date, and checking for any errors on the user's side.
