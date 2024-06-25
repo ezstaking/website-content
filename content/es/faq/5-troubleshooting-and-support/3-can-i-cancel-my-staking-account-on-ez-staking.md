@@ -12,6 +12,7 @@ To cancel your staking account on EZ Staking, you can follow these steps:
 3. Find the staking account you want to cancel and click on the "Cancel Staking" button.
 4. Confirm that you want to cancel the staking account by clicking on the "Confirm Cancel" button.
 
-Once you’ve cancelled your staking account, you will no longer be able to access the staking dashboard and will not receive staking rewards. However, you will still have access to your funds and other account information.
+Once you’ve cancelled your staking account, you will no longer be able to access the staking dashboard and will not receive staking rewards. 
+However, you will still have access to your funds and other account information.
 
 If you have any issues or concerns about cancelling your staking account, you can contact EZ Staking’s support team for assistance.

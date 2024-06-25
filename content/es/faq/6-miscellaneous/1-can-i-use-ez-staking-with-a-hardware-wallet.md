@@ -3,7 +3,9 @@ title: ¿Puedo usar EZ Staking con una billetera de hardware?
 published: true
 ---
 
-Sí, puedes usar EZ Staking con una billetera de hardware. Nuestra plataforma sin custodia le permite conectar su billetera de hardware en nuestra aplicación EZ Staking, utilizando la extensión Keplr. Simplemente:
+Sí, puedes usar EZ Staking con una billetera de hardware. Nuestra plataforma sin custodia le permite conectar su billetera de hardware en nuestra aplicación EZ Staking, utilizando la extensión Keplr.
+
+Simplemente:
 
 1. Instale la extensión Keplr en su navegador
 2. Conecte su billetera de hardware a Keplr en nuestra aplicación EZ Staking
