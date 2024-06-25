@@ -11,4 +11,4 @@ Participer au staking avec EZ Staking, c’est simple ! Visitez simplement notre
 4. Confirmez votre délégation.
 5. Commencez à gagner des récompenses !
 
-Et c'est tout ! Notre plateforme s'occupe du reste, vous offrant une expérience de staking transparente.
+Et c’est tout ! Notre plateforme s’occupe du reste, vous offrant une expérience de staking transparente.

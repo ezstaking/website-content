@@ -11,4 +11,4 @@ Participating in staking with EZ Staking is easy! Simply visit our web-based pla
 4. Confirm your delegation.
 5. Start earning block rewards!
 
-That's it! Our platform takes care of the rest, providing a seamless staking experience for you.
+That’s it! Our platform takes care of the rest, providing a seamless staking experience for you.

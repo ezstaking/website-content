@@ -7,7 +7,7 @@ Yes, you can use EZ Staking with a hardware wallet. Our non-custodial platform a
 
 1. Install the Keplr extension in your browser
 2. Connect your hardware wallet to Keplr on our EZ Staking App
-3. Select the blockchain and validator you'd like to stake for
+3. Select the blockchain and validator you’d like to stake for
 4. Confirm the staking settings and start staking
 
 With Keplr and our EZ Staking App, you can securely connect your hardware wallet and start earning rewards without the need for additional software or downloads.

@@ -9,4 +9,4 @@ If you have a question or issue with EZ Staking, you can contact our support tea
 * Telegram
 * Discord
 
-We're committed to providing timely and helpful support to ensure your staking experience is seamless and enjoyable.
+We’re committed to providing timely and helpful support to ensure your staking experience is seamless and enjoyable.
