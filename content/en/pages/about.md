@@ -10,7 +10,7 @@ EZ Staking was founded on the principle of making staking accessible to everyone
 
 ## **Our Team**
 
-Our team is comprised of experienced professionals with a passion for blockchain and staking. Our founder, Zakaria Lounes, has over 10 years of experience in the industry and has worked with top companies such as:
+Our team comprises experienced professionals with a passion for blockchain and staking. Our founder, Zakaria Lounes, has over 10 years of experience in the industry and has worked with top companies such as:
 
 * FNAC Darty
 * Maisons du Monde
@@ -22,9 +22,9 @@ Our team is comprised of experienced professionals with a passion for blockchain
 
 EZ Staking offers a range of services designed to make staking easy and efficient. Our services include:
 
-* Non-custodial staking: We hold no private keys, ensuring that your coins are always under your control.
-* User-friendly interface: Our platform is designed to be easy to use, even for those without prior staking experience.
-* High-performance nodes: Our nodes are optimized for high-performance and reliability, ensuring minimal downtime and maximum returns.
+* **Non-custodial staking**: We hold no private keys, ensuring that your coins are always under your control.
+* **User-friendly interface**: Our platform is designed to be easy to use, even for those without prior staking experience.
+* **High-performance nodes**: Our nodes are optimized for high-performance and reliability, ensuring minimal downtime and maximum returns.
 
 ## **Why Choose EZ Staking**
 

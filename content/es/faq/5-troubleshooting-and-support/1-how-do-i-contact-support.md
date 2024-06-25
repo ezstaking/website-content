@@ -5,7 +5,7 @@ published: true
 
 Si tiene alguna pregunta o problema con  EZ Staking, puede comunicarse con nuestro equipo de soporte a través de:
 
-* Correo electrónico contact@ezstake.io
+* Correo electrónico contact@ezstaking.io
 * Telegram
 * Discord
 

@@ -3,7 +3,7 @@ title: Quels sont les risques associés au staking sur EZ Staking ?
 published: true
 ---
 
-Comme toute activité de staking, il existe certains risques associés au staking sur EZ Staking. Ces risques comprennent :
+Comme toute activité de staking, il existe certains risques associés au staking sur EZ Staking. Ces risques comprennent :
 
 * Incertitude concernant les récompenses de mise et les fluctuations du marché
 * Potentiel de changements dans les règles du protocole de staking et le vote des validateurs

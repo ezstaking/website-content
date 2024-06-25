@@ -22,9 +22,9 @@ Nuestro equipo está compuesto por profesionales experimentados apasionados por 
 
 EZ Staking ofrece una gama de servicios diseñados para hacer que staking sea fácil y eficiente. Nuestros servicios incluyen:
 
-* Stake sin custodia: no tenemos claves privadas, lo que garantiza que sus monedas estén siempre bajo su control.
-* Interfaz fácil de usar: nuestra plataforma está diseñada para ser fácil de usar, incluso para aquellos sin experiencia previa en staking.
-* Nodos de alto rendimiento: Nuestros nodos están optimizados para un alto rendimiento y confiabilidad, lo que garantiza un tiempo de inactividad mínimo y un rendimiento máximo.
+* **Stake sin custodia**: no tenemos claves privadas, lo que garantiza que sus monedas estén siempre bajo su control.
+* **Interfaz fácil de usar**: nuestra plataforma está diseñada para ser fácil de usar, incluso para aquellos sin experiencia previa en staking.
+* **Nodos de alto rendimiento**: Nuestros nodos están optimizados para un alto rendimiento y confiabilidad, lo que garantiza un tiempo de inactividad mínimo y un rendimiento máximo.
 
 ## **Por qué elegir EZ Staking**
 

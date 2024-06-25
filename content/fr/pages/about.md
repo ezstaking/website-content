@@ -22,9 +22,9 @@ Notre équipe est composée de professionnels expérimentés passionnés par la 
 
 EZ Staking propose une gamme de services conçus pour rendre le staking facile et efficace. Nos services comprennent :
 
-* staking non dépositaire : nous ne détenons aucune clé privée, garantissant que vos pièces sont toujours sous votre contrôle.
-* Interface conviviale : notre plateforme est conçue pour être facile à utiliser, même pour ceux qui n'ont aucune expérience préalable en matière de staking.
-* Nœuds hautes performances : nos nœuds sont optimisés pour des performances et une fiabilité élevées, garantissant des temps d'arrêt minimaux et des rendements maximaux.
+* **Staking non dépositaire** : nous ne détenons aucune clé privée, garantissant que vos pièces sont toujours sous votre contrôle.
+* **Interface conviviale** : notre plateforme est conçue pour être facile à utiliser, même pour ceux qui n'ont aucune expérience préalable en matière de staking.
+* **Nœuds hautes performances** : nos nœuds sont optimisés pour des performances et une fiabilité élevées, garantissant des temps d'arrêt minimaux et des rendements maximaux.
 
 ## **Pourquoi choisir EZ Staking**
 
